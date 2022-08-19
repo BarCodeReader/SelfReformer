@@ -88,5 +88,8 @@ For *MAE*, *F measure*, *E score* and *S score*, we use the code provided by thi
 #### Qualitative Evaluation
 <img src="https://github.com/BarCodeReader/SelfReformer/blob/main/asset/figure1.png" alt="drawing" width="1200"/>
 
+### License
+Currently this work is under **Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+
 ### Contribution
 If you want to contribute or make the code better, simply submit a Pull-Request to **develop** branch.
