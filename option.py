@@ -50,7 +50,7 @@ def make_template(opt):
         opt.seed = seed
 
     if not opt.test_only:
-        opt.ckpt_root += 'ckpt_rs{}'.format(opt.seed)
+        opt.ckpt_root += '/ckpt_rs{}'.format(opt.seed)
 
     if "network" in opt.model:
         # depth, num_heads, embed_dim, mlp_ratio, num_patches
