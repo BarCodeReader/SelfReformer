@@ -15,7 +15,7 @@ Torch==1.8.2+cu111\
 Torchvision==0.9.2+cu111\
 kornia
 
-Besides, we use [git-lfs](https://git-lfs.github.com/) for large file management. Please also install it otherwise the .pth file might not be correctly downloaded.
+Besides, we use [git-lfs](https://git-lfs.github.com/) for large file management. Please also install it otherwise the .pth file might not be correctly downloaded. However, if you failed to download the lfs file, you can download via Google Drive [**HERE**](https://drive.google.com/file/d/1l5HJWXid7JETz4gxuireVXgoMjm14jEX/view?usp=sharing)
 
 ### Dataset
 For all datasets, they should be organized in below's fashion:
