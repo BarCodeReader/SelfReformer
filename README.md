@@ -68,7 +68,7 @@ Currently only support training on single GPU.
 ### Pretrain Model & Pre-calculated Saliency Map
 Pre-calculated saliency map: [[Google]](https://drive.google.com/file/d/1HPZvAFBS_5RaXggd4QqGFWQQs61cQ6m0/view?usp=sharing)
 
-Pre-trained model on DUTS-TE: [[Google]](https://drive.google.com/file/d/19kO-IjZS56rIDTfscABhErTO-SP7oP4L/view?usp=sharing)
+Pre-trained model trained on DUTS-TR for testing on DUTS-TE: [[Google]](https://drive.google.com/file/d/19kO-IjZS56rIDTfscABhErTO-SP7oP4L/view?usp=sharing)
 
 ### Evaluation
 Firstly, obtain predictions via
