@@ -9,7 +9,7 @@
 # SelfReformer-pytorch
 
 ### Updates!
-Our arxiv paper [SelfReformer](https://arxiv.org/abs/2205.11283) was accepted by Transactions on Multimedia (TMM)! [Link](https://drive.google.com/file/d/1smT8qAkGQxSBxQfe-jShwqxRPcP8B7J8/view?usp=sharing) and citation will be release soon~
+Our arxiv paper [SelfReformer](https://arxiv.org/abs/2205.11283) was accepted by Transactions on Multimedia (TMM)! [Full Paper](https://drive.google.com/file/d/1smT8qAkGQxSBxQfe-jShwqxRPcP8B7J8/view?usp=sharing)
 
 ### Prerequisites
 Ubuntu 18.04\
