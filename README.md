@@ -93,3 +93,16 @@ For *MAE*, *F measure*, *E score* and *S score*, we use the code provided by thi
 
 ### Contribution
 If you want to contribute or make the code better, simply submit a Pull-Request to **develop** branch.
+
+### Citation
+```
+@ARTICLE{10287608,
+  author={Yun, Yi Ke and Lin, Weisi},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Towards a Complete and Detail-Preserved Salient Object Detection}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TMM.2023.3325731}}
+```
