@@ -9,7 +9,11 @@
 # SelfReformer-pytorch
 
 ### Updates!
-Our arxiv paper [SelfReformer](https://arxiv.org/abs/2205.11283) was accepted by Transactions on Multimedia (TMM)! 
+:rocket: [20240504] SelfReformer with Swin backbone (params. ~220M) has been released! 
+
+DUTS-TR checkpoint [**Link**](https://drive.google.com/file/d/1A4lxKX6JojXFQMBkQN7nfUaw75Q5o1Du/view?usp=sharing), Pre-calculated map [**Link**](https://drive.google.com/file/d/1dZ6c5U-xaSlnCHdRf49Pmxuu5uClbpFF/view?usp=sharing), Swin backbone [**Link**](https://drive.google.com/file/d/1GXYa2wwYWYD2bppCZtGdTfDH-1bnsJf8/view?usp=sharing). Please place the Swin backbone under the `model/pretrain` folder. A new branch for SelfReformer-Swin will be released soon!
+
+:rocket: [20240223] Our arxiv paper [SelfReformer](https://arxiv.org/abs/2205.11283) was accepted by Transactions on Multimedia (TMM)! 
 
 [IEEE Link](https://ieeexplore.ieee.org/document/10287608)
 
