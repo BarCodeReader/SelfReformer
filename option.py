@@ -54,10 +54,10 @@ def make_template(opt):
 
     if "network" in opt.model:
         # depth, num_heads, embed_dim, mlp_ratio, num_patches
-        opt.transformer = [[2, 1, 512, 3, 49],
-                           [2, 1, 320, 3, 196],
-                           [2, 1, 128, 3, 784],
-                           [2, 1, 64, 3, 3136]]
+        opt.transformer = [[2, 1, 1024, 3, 49],
+                           [2, 1, 512, 3, 196],
+                           [2, 1, 256, 3, 784],
+                           [2, 1, 128, 3, 3136]]
 
 
 def get_option():
